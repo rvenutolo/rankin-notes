@@ -165,7 +165,7 @@ Stain on floor.
 ## Garage
 
 ![](./PXL_20241016_213154161.jpg)
-Garage door opener doesn't seem to work.
+Garage door opener doesn't seem to work. Does the motor work?
 
 ![](./PXL_20241016_213248071.jpg)
 Does this work? Is it clean?
@@ -185,13 +185,13 @@ Does this work?
 Does this work?
 
 ![](./PXL_20241016_213648138.jpg)
-Dunno.
+Does this work?
 
 ![](./PXL_20241016_213653621.jpg)
-Dunno.
+Does this faucet work?
 
 ![](./PXL_20241016_213710505.jpg)
-Does this box work?
+Does this box work? Can we change the codd?
 
 ![](./PXL_20241016_213715820.jpg)
 Missing panel.
@@ -205,7 +205,7 @@ Wasps.
 Light doesn't seem to work. Or we don't know which switch controls it.
 
 ![](./PXL_20241016_213756005.jpg)
-Flashing on porch.
+Flashing on porch quality?
 
 ![](./PXL_20241016_213821773.jpg)
 Discoloration on under windows.
