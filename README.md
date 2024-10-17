@@ -168,13 +168,13 @@ Stain on floor.
 Garage door opener doesn't seem to work.
 
 ![](./PXL_20241016_213248071.jpg)
+Does this work? Is it clean?
+
 ![](./PXL_20241016_213325406.jpg)
 ![](./PXL_20241016_213329172.jpg)
 ![](./PXL_20241016_213332805.jpg)
-Cracks.
-
 ![](./PXL_20241016_213238785.jpg)
-Does this work? Is it clean?
+Cracks.
 
 ![](./PXL_20241016_213406825.jpg)
 Does this work?
