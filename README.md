@@ -42,6 +42,12 @@ Audio/intercom system we'll probably want to remove.
 ![](./PXL_20241016_203624011.jpg)
 Crack in moulding outside dining room window.
 
+*Items with no corresponding photos*
+- Functionality of intercom system.
+- Functionality of alarm system.
+- Functionality of speakers.
+- Per neighbor, flooding in living room ceiling.
+
 ## Master Bedroom Floor
 
 ![](./PXL_20241016_204019549.jpg)
@@ -73,6 +79,11 @@ Crack in baseboard next to bathroom.
 
 ![](./PXL_20241016_210151767.jpg)
 Tar-like substance in master closet.
+
+*Items with no corresponding photos*
+- Functionality of intercom system.
+- Functionality of alarm system.
+- Vent above the toilet looks dirty and maybe not functional.
 
 ## Top Floor
 
@@ -125,6 +136,9 @@ Should anything be covering this hole?
 ![](./PXL_20241016_211338560.jpg)
 Light switch plate not flush against wall.
 
+*Items with no corresponding photos*
+- Bathroom smells. Mold check?
+
 ## Basement Floor
 
 ![](./PXL_20241016_211624341.jpg)
@@ -138,7 +152,7 @@ Bathroom light fixture askew.
 
 ![](./PXL_20241016_212033906.jpg)
 ![](./PXL_20241016_212037322.jpg)
-Carpet in closet.
+Carpet in closet. What is up with the ropes? Is this the sewer connection?
 
 ![](./PXL_20241016_212044421.jpg)
 Loose connection to air duct?
@@ -162,6 +176,10 @@ Random wire sticking out of wall.
 ![](./PXL_20241016_212936107.jpg)
 Stain on floor.
 
+*Items with no corresponding photos*
+- Light in electrical room doesn't work.
+- Panel door on breaker box doesn't close.
+
 ## Garage
 
 ![](./PXL_20241016_213154161.jpg)
@@ -178,6 +196,11 @@ Cracks.
 
 ![](./PXL_20241016_213406825.jpg)
 Does this work?
+
+*Items with no corresponding photos*
+- Crack in floor.
+- Stains on floor.
+- Condition of garage door mount/system.
 
 ## Outside
 
@@ -215,3 +238,21 @@ Light is out.
 
 ![](./PXL_20241016_230419707.jpg)
 What are these wires?
+
+*Items with no corresponding photos*
+- Vent conditions. Clogged?
+- Check quality of front steps.
+
+# Elevator
+
+- Mold check.
+- Does the light turn off?
+
+# Roof
+
+- Check boots on metal roof. Per neighbor, when her roof was checked, the roofer checked front unit roof and said boots were bad.
+- CHeck flashing on roof connecting to living room as it looks incorrect. 
+
+# Other
+
+- All floors tested for mold.
